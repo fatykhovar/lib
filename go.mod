@@ -1,4 +1,4 @@
-module github.com/fatyhovar/lib
+module github.com/fatykhovar/lib
 
 
 go 1.26.5
